@@ -1,5 +1,5 @@
 # Vigomex-El-Juego
-<img width="515" height="515" alt="logo512b (2)" src="https://github.com/user-attachments/assets/92a4bf0e-ec87-4711-8baf-9b46de1425ff" />
+<img width="315" height="315" alt="logo512b (2)" src="https://github.com/user-attachments/assets/92a4bf0e-ec87-4711-8baf-9b46de1425ff" />
 
 Juego de simulador de taller para celulares hecho con Unity en lenguaje C#.
 
