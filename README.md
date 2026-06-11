@@ -21,4 +21,5 @@ Juego de simulador de taller para celulares hecho con Unity en lenguaje C#.
 <img width="1434" height="660" alt="screenshot-11" src="https://github.com/user-attachments/assets/3b256133-79be-4539-826e-73cb058d989d" />
 
 ## Link del juego
-Play Store
+[(Play Store)](https://play.google.com/store/apps/details?id=com.TruenoDigital.VigomexElJuego)
+[(App Store)](https://apps.apple.com/hn/app/vigomex-el-juego/id6746180256)
