@@ -3,8 +3,6 @@
 
 Juego de simulador de taller para celulares hecho con Unity en lenguaje C#.
 
-Juego de plataformas y acción para celulares inspirado en la historia y cultura prehispánica hecho en Unity con lenguaje C#.
-
 ## Características
 -Simulación interactiva de actividades dentro de un taller mecánico.
 -Interfaz optimizada para dispositivos móviles.
